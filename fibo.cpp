@@ -3,7 +3,7 @@ using namespace std;
 void main()
 {
 int i,n,x=0,y=1,z;
-clrscr();
+
 cout<<"Enter nubmer of terms for Fibonacci Series: ";
 cin>>n;
 cout<<"Fibonacci series are: \n";
